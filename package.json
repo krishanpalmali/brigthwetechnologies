@@ -1,0 +1,22 @@
+{
+  "name": "starteup-kp-bissinuss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "livereload": "^0.10.3",
+    "nodemailer": "^7.0.10",
+    "nodemon": "^3.1.10"
+  }
+}
